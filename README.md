@@ -1,4 +1,4 @@
-# Angular 2 Beta Boilerplate
+# Angular-2-KickOff
 
 ## Description
 This repository acts as a very simple Angular 2 Beta Boilerplate with which you can get started developing Angular 2 immediately.
@@ -8,7 +8,7 @@ Follow the following steps and you're good to go! Important: Typescript and npm 
 
 1: Clone repo
 ```
-git clone https://github.com/mschwarzmueller/angular-2-beta-boilerplate.git
+git clone https://github.com/arnab-dibosh/Angular-2-KickOff
 ```
 2: Install packages
 ```
